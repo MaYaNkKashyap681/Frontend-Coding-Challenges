@@ -19,6 +19,8 @@ export const MainPanel = () => {
 
 
     const bookRoom = (roomIndex) => {
+
+        if(reservationTable[roomIndex]) return false;
         const roomsData = [...rooms];
         const userCopy = { ...userdata };
         if (roomsData[roomIndex].cost > userCopy.credits) return false;
