@@ -7,6 +7,8 @@ Welcome to the Frontend Interview Challenges Repository! This repository contain
 | Challenge Name | GitHub Repo | Deployed Link | Image |
 | -------------- | ----------- | ------------- | ----- |
 | Build a Room Reservation System    | [Repo](https://github.com/MaYaNkKashyap681/Frontend-Coding-Challenges/tree/master/src/room-book) |  | <img width="1400" alt="image" src="https://github.com/MaYaNkKashyap681/Frontend-Coding-Challenges/assets/96070627/998639df-68a0-480f-9baa-fd2f04fa1f0b">
+| Gif Search Engine    | [Repo](https://github.com/MaYaNkKashyap681/Frontend-Coding-Challenges/tree/master/src/gif-engine) |  | <img width="1419" alt="Screenshot 2024-02-24 at 1 27 03 PM" src="https://github.com/MaYaNkKashyap681/Frontend-Coding-Challenges/assets/96070627/0fa55f3c-f368-4973-a49b-d39e17ef60c6">
+
 
 ## Usage
 

@@ -8,7 +8,7 @@ class Fetcher {
     
         this.limit = 10;
         this.baseUrl = "https://api.giphy.com/v1/gifs/";
-        this.apiKey = "dWhHx4ASEutwPYhE1MAQ4DleOYLrgktp"; // Replace "your_api_key" with your actual Giphy API key
+        this.apiKey = "your-api-key"; // Replace "your_api_key" with your actual Giphy API key
     
         Fetcher.instance = this;
     }
