@@ -10,6 +10,9 @@ Welcome to the Frontend Interview Challenges Repository! This repository contain
 | Gif Search Engine    | [Repo](https://github.com/MaYaNkKashyap681/Frontend-Coding-Challenges/tree/master/src/gif-engine) |  | <img width="1419" alt="Screenshot 2024-02-24 at 1 27 03 PM" src="https://github.com/MaYaNkKashyap681/Frontend-Coding-Challenges/assets/96070627/0fa55f3c-f368-4973-a49b-d39e17ef60c6">
 | Mini Google Calender Clone SDE-1 ( Non-Overlapping Events )  | [Repo](https://github.com/MaYaNkKashyap681/Frontend-Coding-Challenges/tree/master/src/google-calender) |  | <img width="1049" alt="image" src="https://github.com/MaYaNkKashyap681/Frontend-Coding-Challenges/assets/96070627/0a9ec03b-708f-48c4-82b7-18e0d7f79d3c">
 | Create a Chess Board | [Repo](https://github.com/MaYaNkKashyap681/Frontend-Coding-Challenges/tree/master/src/chess-board) |  | <img width="822" alt="image" src="https://github.com/MaYaNkKashyap681/Frontend-Coding-Challenges/assets/96070627/0baf0c8d-53bf-4b5f-a648-4e75bd960ae4">
+| Timer with Progress Bar | [Repo](https://github.com/MaYaNkKashyap681/Frontend-Coding-Challenges/tree/master/src/progress-timer) |  | <img width="1241" alt="Screenshot 2024-03-08 at 9 24 09 PM" src="https://github.com/MaYaNkKashyap681/Frontend-Coding-Challenges/assets/96070627/b37cd542-a7e5-475b-9c48-2533445cb95d">
+
+
 
 
 
