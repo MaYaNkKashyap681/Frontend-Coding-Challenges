@@ -1,0 +1,38 @@
+<div id="cardContainer">
+  <div class="card">
+    <h2 class="title">Title 1</h2>
+    <button class="actionButton" data-action="like">Like</button>
+    <button class="actionButton" data-action="comment">Comment</button>
+  </div>
+  <div class="card">
+    <h2 class="title">Title 2</h2>
+    <button class="actionButton" data-action="like">Like</button>
+    <button class="actionButton" data-action="comment">Comment</button>
+  </div>
+  <!-- More cards here -->
+</div>
+
+<script>
+  // Attach event listener to the container
+  document.getElementById('cardContainer').addEventListener('click', function(event) {
+    // Check if the clicked element is a button with class 'actionButton'
+    if (event.target.classList.contains('actionButton')) {
+      // Find the parent card of the clicked button
+      var card = event.target.closest('.card');
+      if (card) {
+        // Get the data-action attribute of the clicked button
+        var action = event.target.dataset.action;
+        // Get the title of the card
+        var title = card.querySelector('.title').innerText;
+        // Perform action based on data-action attribute
+        if (action === 'like') {
+          console.log('Liked card with title:', title);
+          // Perform like action
+        } else if (action === 'comment') {
+          console.log('Commented on card with title:', title);
+          // Perform comment action
+        }
+      }
+    }
+  });
+</script>
